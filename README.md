@@ -5,7 +5,7 @@
 
 ## 相关客户端
 
- - iOS/iPad: Surge for iOS, Quantumult X, Shadowrocket, Loon, Stash,Egern
+ - iOS/iPadOS: Surge for iOS, Quantumult X, Shadowrocket, Loon, Stash,Egern
  - Android/安卓: Clash for Android, Surfboard
  - macOS: Surge for Mac, ClashX Pro, Clash for Windows,(Apple Silicon can use iPadOS app)
  - Windows: Clash for Windows,Clash.NET,Netch
