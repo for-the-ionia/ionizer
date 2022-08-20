@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
+
 # ionizer
 # For The Ionia😶‍🌫️👊
 
