@@ -45,14 +45,13 @@ IP-CIDR,103.41.167.0/24,IP
 # ======= 国家反诈中心 ======= #
 DOMAIN-SUFFIX,gjfzpt.cn,REJECT 
 
-# ======= 抖音 ======= #
-# 请求域名过多，建议全局代理
-DOMAIN-KEYWORD,core-c-lq,IP
-DOMAIN-KEYWORD,core-lq,IP
-DOMAIN-KEYWORD,normal-c-lq,IP
-DOMAIN-KEYWORD,normal-lq,IP
-DOMAIN-KEYWORD,search-quic-lq,IP
-DOMAIN-KEYWORD,search-lq,IP
+# ======= 抖音 ======= #ban了你自己清楚你干了什么
+# DOMAIN-KEYWORD,core-c-lq,IP
+# DOMAIN-KEYWORD,core-lq,IP
+# DOMAIN-KEYWORD,normal-c-lq,IP
+# DOMAIN-KEYWORD,normal-lq,IP
+# DOMAIN-KEYWORD,search-quic-lq,IP
+# DOMAIN-KEYWORD,search-lq,IP
 
 # ======= 头条 ======= #
 # 网友提供头条IP定位接口
