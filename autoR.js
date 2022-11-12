@@ -1,0 +1,1 @@
+^https?://mp\.weixin\.qq\.com/s.+? url response-body </script> response-body setTimeout(()=>window.history.back(),7000); </script>
