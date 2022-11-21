@@ -30,10 +30,10 @@ DOMAIN,hm.baidu.com,IP
 DOMAIN,www.baidu.com,IP
  
 # ======= 微信 ======= #
-DOMAIN,szshort.weixin.qq.com,IP
-DOMAIN,szextshort.weixin.qq.com,IP
-DOMAIN,szminorshort.weixin.qq.com,IP
-DOMAIN,mp.weixin.qq.com,IP 
+;DOMAIN,szshort.weixin.qq.com,IP
+;DOMAIN,szextshort.weixin.qq.com,IP
+;DOMAIN,szminorshort.weixin.qq.com,IP
+;DOMAIN,mp.weixin.qq.com,IP 
 
 # ======= 知乎 ======= #
 #DOMAIN,zhihu-web-analytics.zhihu.com,IP
